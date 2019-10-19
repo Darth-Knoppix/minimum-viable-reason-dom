@@ -1,0 +1,16 @@
+{
+  "name": "minimum-viable-reason-dom",
+  "version": "0.1.0",
+  "description": "A basic project from scratch to show how Reason can be used",
+  "dependencies": {},
+  "devDependencies": {
+    "bs-platform": "^5.0.6"
+  },
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Corker <seth.corker@gmail.com>",
+  "license": "MIT"
+}
